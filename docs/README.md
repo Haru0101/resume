@@ -14,7 +14,7 @@
 ## 保有スキル
 
 - TypeScript
-- Vue.js(3系)
+- Vue.js(v3)
 - JavaScript
 - HTML5
 - CSS3
