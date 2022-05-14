@@ -13,13 +13,7 @@
 
 ## 保有スキル
 
-- TypeScript
-- Vue.js(v3)
-- JavaScript
-- HTML5
-- CSS3
-- Scss
-- Jest
+- 
 
 
 ---
@@ -28,11 +22,16 @@
 
 ### 言語
 
-- 
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- Scss
 
 ### フレームワーク・その他
 
-- 
+- Vue.js(v3)
+- Jest
 
 ---
 
