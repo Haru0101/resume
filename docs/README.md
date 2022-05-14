@@ -30,7 +30,9 @@
 
 ### フレームワーク・その他
 
-- Vue.js(v3)
+- Vue.js
+- Vite
+- Gatsby
 - Jest
 
 ---
