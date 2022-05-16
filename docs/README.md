@@ -4,7 +4,7 @@
 
 |key|value|
 |---|---|
-|氏名|奥田 晴樹 Okuda Haruki|
+|氏名|奥田 晴樹（Okuda Haruki）|
 |生年月日|1997.09.05|
 |Blog|https://duckwell.netlify.app/|
 |Zenn|https://zenn.dev/harryduck/|
