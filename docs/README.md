@@ -62,4 +62,5 @@
 
 ## 業務外活動
 
-- 
+- 技術記事の執筆(https://zenn.dev/harryduck/)
+- 技術本の販売(https://zenn.dev/harryduck/books/a57c98402810a9)
