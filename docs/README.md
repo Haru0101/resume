@@ -27,6 +27,7 @@
 - HTML5
 - CSS3
 - Scss
+- jQuery
 
 ### フレームワーク・その他
 
