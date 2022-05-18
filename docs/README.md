@@ -35,6 +35,7 @@
 - Vite
 - Gatsby
 - Jest
+- WordPress
 
 ---
 
