@@ -36,6 +36,7 @@
 - Vite
 - Gatsby
 - Jest
+- TailwindCSS
 - WordPress
 
 ---
