@@ -38,6 +38,7 @@
 - Jest
 - TailwindCSS
 - WordPress
+- Gulp
 
 ---
 
