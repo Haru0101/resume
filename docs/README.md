@@ -39,6 +39,7 @@
 - TailwindCSS
 - WordPress
 - Gulp
+- Git
 
 ---
 
